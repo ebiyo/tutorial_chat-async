@@ -21,3 +21,7 @@ Koneksi sisi server:
 Setelah mengubah port menjadi 8080 di server.rs dan client.rs, semuanya berhasil dijalankan karena server membroadcast ke port 8080 dan client juga mendengarkan ke port 8080.
 
 Chat dari setiap client akan tampil pada semua client-client lain, dan juga pada server.
+
+# 2.3
+![Running one server and three clients with modified message format](image-2.png)
+Saya telah memodifikasi teks agar terlihat lebih rapih dan memberi informasi dengan lebih jelas.
